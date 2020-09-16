@@ -1,1 +1,37 @@
+Understanding the basics of NLP and Topic Modelling:
+- https://www.kdnuggets.com/2019/11/understanding-nlp-topic-modeling-part-1.html
+- https://monkeylearn.com/blog/introduction-to-topic-modeling/
+- https://www.youtube.com/watch?v=P8wvOge6Q20&feature=youtu.be
+- https://cbail.github.io/textasdata/topic-modeling/rmarkdown/Topic_Modeling.html
+- https://www.youtube.com/watch?v=DDq3OVp9dNA
 
+******************************************************
+
+Understanding LDA from basic to advanced:
+- https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+- https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24
+
+******************************************************
+
+Working of the LDA algorithm (mainly code and mathematics):
+- https://youtu.be/T05t-SqKArY
+- https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#:~:text=Topic%20Modeling%20with%20Gensim%20(Python)&text=Topic%20Modeling%20is%20a%20technique,in%20the%20Python's%20Gensim%20package.
+- https://www.kdnuggets.com/2019/09/overview-topics-extraction-python-latent-dirichlet-allocation.html
+- https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-latent-dirichlet-allocation-437c81220158
+- https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+
+******************************************************
+
+Research papers related to Topic Modelling, NLP and their algorithms:
+- http://derekgreene.com/papers/greene14topics.pdf (main)
+- https://ieeexplore.ieee.org/document/8250563
+- https://www.cs.cornell.edu/~laurejt/papers/authorless-tms-2018.pdf
+- https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+- https://www.youtube.com/watch?v=VTweNS8GiWI&t=2012s (Explanation for the research paper above based on LDA)
+
+******************************************************
+
+Other Topic Modelling algorithms & resources on LDA and LSA:
+- https://github.com/ddangelov/Top2Vec (top2vec algorithm)
+- https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
+- https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
