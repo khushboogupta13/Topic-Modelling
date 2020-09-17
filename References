@@ -39,6 +39,11 @@ Research papers related to Topic Modelling, NLP and their algorithms:
 
 ******************************************************
 
+Understanding and related resources about the libraries used:
+- Gensim: https://stackabuse.com/python-for-nlp-working-with-the-gensim-library-part-1/
+
+******************************************************
+
 Other Topic Modelling algorithms & resources on LDA and LSA:
 - https://github.com/ddangelov/Top2Vec (top2vec algorithm)
 - https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
